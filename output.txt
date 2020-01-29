@@ -1,0 +1,14 @@
+Adding element
+Adding element
+Adding element
+Adding element
+Adding element
+Adding element
+Adding element
+Adding element
+Printing
+remove() still in development
+getitem() still in development
+size is 8
+Contains is true
+Contains is false
