@@ -1,11 +1,11 @@
-add 60 F
-add 70 G
-add 40 D
-add 80 H
-add 30 C
-add 50 E
-add 10 A
-add 20 B
+add 60 Fruit
+add 70 Good
+add 40 Dog
+add 80 Hat
+add 30 Cookie
+add 50 Eat
+add 10 Apple
+add 20 Bounce
 print
 remove 10
 getitem 20
