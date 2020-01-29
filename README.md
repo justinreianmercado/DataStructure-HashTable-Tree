@@ -1,5 +1,5 @@
 # DataStructure - HashTable / Tree
-## This program will manipulate template data into a Hashtable of Binary Search Trees.
+## This program will manipulate template data using a Hashtable of Binary Search Trees.
 
 **This program is aimed to demonstrate my understanding of the following concepts:**
 - File handling (input and output)
